@@ -1,5 +1,4 @@
-Great! Here is a complete, polished, **GitHub-ready README.md** for your **Age Calculator** project.
-You can copy-paste this directly into your repository.
+
 
 ---
 
