@@ -11,7 +11,7 @@ This tool allows users to select their date of birth and instantly calculates th
 
 ## 🚀 Live Demo
 
-(Add your demo link here if you have one)
+(https://asadullahagecalculator.vercel.app/)
 
 ---
 
@@ -25,14 +25,7 @@ This tool allows users to select their date of birth and instantly calculates th
 
 ---
 
-## 📸 Screenshot
 
-(Add a screenshot here later)
-Example:
-
-```
-![App Screenshot](./screenshot.png)
-```
 
 ---
 
